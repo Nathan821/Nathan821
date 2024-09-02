@@ -1,10 +1,7 @@
-Hi there, I'm Natnael Mathewos 👋
-I'm a FullStack Web Developer passionate about building scalable and efficient web applications.
+👋 Hi there! I'm a passionate Front-End Developer with a strong foundation in creating visually appealing and user-friendly websites and applications. My journey in web development has equipped me with a diverse skill set that includes both programming and design tools.
 
-About Me
-🌟 FullStack Developer with expertise in modern web technologies
-🌱 Continuously learning and expanding my skillset
-🏞️ Outdoor enthusiast who loves hiking
-💪 Dedicated to fitness, often found at the gym
-📚 Avid reader with a curiosity for various topics
-🎨 Embracing creativity in all forms
+Skills
+Languages & Frameworks: HTML, CSS, JavaScript, C++, PHP, MySQL
+Design Tools: Adobe Photoshop, Figma, Canva
+Video Editing: Adobe Premiere Pro, wondershre Filmora, capcut
+I'm constantly exploring new technologies and pushing the boundaries of what's possible on the web. Whether it's building responsive websites or crafting intuitive user experiences, I love turning ideas into reality.
