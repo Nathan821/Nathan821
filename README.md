@@ -15,6 +15,4 @@ I'm always learning, improving, and exploring new technologies—from 3D web and
 
 If you're passionate about code, design, or creativity, feel free to connect — I’m always open to meaningful collaboration.
 
----
 
-Would you like help adding this directly to your GitHub profile README?
