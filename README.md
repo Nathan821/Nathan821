@@ -1,9 +1,9 @@
-Absolutely! Here's the same professional and polished version of your GitHub "About" section without bold formatting:
-
----
-
 Hello and Welcome — I'm Natnael Mathewos
-Full-Stack Developer & Visual Artist
+Full-Stack Developer & Visual Artist:
+
+-----------------------------------------------------------------------------------
+
+
 
 I'm a dedicated full-stack developer and artist who thrives at the intersection of logic and creativity. With a passion for building modern, responsive web applications and a deep love for visual storytelling, I strive to craft experiences that are both functional and beautiful.
 
@@ -16,3 +16,4 @@ I'm always learning, improving, and exploring new technologies—from 3D web and
 If you're passionate about code, design, or creativity, feel free to connect — I’m always open to meaningful collaboration.
 
 
+-------------------------------------------------------------------------------------------
