@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+I'm+Natnael+Mathewos!;Full-Stack+Dev+%26+Visual+Artist;Let's+build+something+amazing!&center=true&size=26&duration=3500&pause=800" alt="Typing SVG">
+</h1>
+
 # 💫 About Me:
 Hello and Welcome — I'm **Natnael Mathewos**  
 **Full-Stack Developer & Visual Artist**  
