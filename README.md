@@ -2,24 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F76C6C&center=true&vCenter=true&width=800&height=100&lines=Hi+There%2C+I'm+Natnael+Mathewos;Full+Stack+Developer;Front-End+Developer;Back-End+Developer;Video+Editor;Graphics+Designer;Artist" alt="Typing SVG" class="typing-text" />
 </div>
 
-<style>
-  .typing-container {
-    text-align: center;
-  }
-
-  .typing-text {
-    animation: glowing 1.5s infinite alternate;
-  }
-
-  @keyframes glowing {
-    0% {
-      text-shadow: 0 0 5px #F76C6C, 0 0 10px #F76C6C, 0 0 15px #F76C6C, 0 0 20px #F76C6C;
-    }
-    100% {
-      text-shadow: 0 0 10px #F76C6C, 0 0 20px #F76C6C, 0 0 30px #F76C6C, 0 0 40px #F76C6C;
-    }
-  }
-</style>
 
 
 
