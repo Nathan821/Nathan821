@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+I'm+Natnael+Mathewos!;Full-Stack+Dev+%26+Visual+Artist;Let's+build+something+amazing!&center=true&size=26&duration=3500&pause=800" alt="Typing SVG">
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 </h1>
 
 # 💫 About Me:
