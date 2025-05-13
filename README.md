@@ -1,5 +1,9 @@
+<img src="mybannerdeign.png" alt="Banner" class="banner">
+
+
+
 <div class="typing-container">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F76C6C&center=true&vCenter=true&width=800&height=100&lines=Hi+There%2C+I'm+Natnael+Mathewos;Full+Stack+Developer;Front-End+Developer;Back-End+Developer;Video+Editor;Graphics+Designer;Artist" alt="Typing SVG" class="typing-text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F76C6C&center=true&vCenter=true&width=800&height=100&lines=Hi+There%2C+I'm+Natnael+Mathewos;Full+Stack+Developer;Front-End+Developer;Back-End+Developer;Video+Editor;Graphics+Designer;Artist" alt="Typing SVG" class="typing-text" />
 </div>
 
 
