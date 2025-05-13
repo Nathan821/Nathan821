@@ -1,36 +1,27 @@
-<img src="mybannerdeign.png" alt="Banner" class="banner">
-
-<div class="banner-container">
-  <img src="https://path-to-your-banner-image.jpg" alt="Banner" class="banner" />
-  <p class="typing-banner">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F76C6C&center=true&vCenter=true&width=800&height=100&lines=Hi+There%2C+I'm+Natnael+Mathewos;Full+Stack+Developer;Front-End+Developer;Back-End+Developer;Video+Editor;Graphics+Designer;Artist" alt="Typing SVG" />
-  </p>
+<div class="typing-container">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F76C6C&center=true&vCenter=true&width=800&height=100&lines=Hi+There%2C+I'm+Natnael+Mathewos;Full+Stack+Developer;Front-End+Developer;Back-End+Developer;Video+Editor;Graphics+Designer;Artist" alt="Typing SVG" class="typing-text" />
 </div>
 
 <style>
-  .banner-container {
-    position: relative;
-    width: 100%;
-    height: 300px; /* Adjust height as needed */
+  .typing-container {
+    text-align: center;
   }
 
-  .banner {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+  .typing-text {
+    animation: glowing 1.5s infinite alternate;
   }
 
-  .typing-banner {
-    position: absolute;
-    top: 20px; /* Adjust this to move the typing animation higher or lower */
-    left: 50%;
-    transform: translateX(-50%);
-    z-index: 1; /* Ensure it's on top of the banner */
-    color: white; /* If you'd like text over the typing */
-    font-size: 24px;
-    font-family: 'Fira Code', monospace;
+  @keyframes glowing {
+    0% {
+      text-shadow: 0 0 5px #F76C6C, 0 0 10px #F76C6C, 0 0 15px #F76C6C, 0 0 20px #F76C6C;
+    }
+    100% {
+      text-shadow: 0 0 10px #F76C6C, 0 0 20px #F76C6C, 0 0 30px #F76C6C, 0 0 40px #F76C6C;
+    }
   }
 </style>
+
+
 
 
 # 💫 About Me:
