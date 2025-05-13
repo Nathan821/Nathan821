@@ -1,4 +1,37 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+<img src="mybannerdeign.png" alt="Banner" class="banner">
+
+<div class="banner-container">
+  <img src="https://path-to-your-banner-image.jpg" alt="Banner" class="banner" />
+  <p class="typing-banner">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F76C6C&center=true&vCenter=true&width=800&height=100&lines=Hi+There%2C+I'm+Natnael+Mathewos;Full+Stack+Developer;Front-End+Developer;Back-End+Developer;Video+Editor;Graphics+Designer;Artist" alt="Typing SVG" />
+  </p>
+</div>
+
+<style>
+  .banner-container {
+    position: relative;
+    width: 100%;
+    height: 300px; /* Adjust height as needed */
+  }
+
+  .banner {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .typing-banner {
+    position: absolute;
+    top: 20px; /* Adjust this to move the typing animation higher or lower */
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1; /* Ensure it's on top of the banner */
+    color: white; /* If you'd like text over the typing */
+    font-size: 24px;
+    font-family: 'Fira Code', monospace;
+  }
+</style>
+
 
 # 💫 About Me:
 Hello and Welcome — I'm **Natnael Mathewos**  
