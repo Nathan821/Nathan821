@@ -1,4 +1,4 @@
-<img src="mybannerdesign1.png" alt="Banner" class="banner">
+<img src="natnaelmathewos'sart.gif" alt="Banner" class="banner">
 
 
 
