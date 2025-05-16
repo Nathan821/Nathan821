@@ -1,4 +1,4 @@
-<img src="mybannerdeign1.png' 'start' alt="Banner" class="banner">
+<img src="mybannerdesign1.png" alt="Banner" class="banner">
 
 
 
