@@ -1,4 +1,4 @@
-<img src="natnaelmathewos.gif'sart" alt="Banner" class="banner">
+<img src="natnaelmathewos'sart.gif.gif'sart" alt="Banner" class="banner">
 
 
 
