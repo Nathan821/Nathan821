@@ -1,4 +1,4 @@
-<img src="natnaelmathewos'sart.gif' alt="Banner" class="banner">
+<img src="mybannerdeign1.png' 'start' alt="Banner" class="banner">
 
 
 
