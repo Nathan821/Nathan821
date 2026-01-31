@@ -13,10 +13,10 @@
 
 
 # 💫 About Me:
-Hello and Welcome — I'm **Natnael Mathewos**  
+Hello and Welcome  I'm **Natnael Mathewos**  
 **Full-Stack Developer & Visual Artist**  
 
-I'm a dedicated full-stack developer and artist who thrives at the intersection of logic and creativity. With a passion for building modern, responsive web applications and a deep love for visual storytelling, I strive to craft experiences that are both functional and beautiful.
+I'm a dedicated full stack developer and artist who thrives at the intersection of logic and creativity. With a passion for building modern, responsive web applications and a deep love for visual storytelling, I strive to craft experiences that are both functional and beautiful.
 
 As a developer, I specialize in full-stack development using tools like **React, Node.js, MongoDB**, and **Express**. I’m committed to writing clean, efficient code and designing user interfaces that are intuitive and responsive. My projects are grounded in usability, performance, and scalability.
 
